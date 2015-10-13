@@ -28,4 +28,7 @@ function drawBasic() {
 
     chart.draw(data, options);
 }
-alert("Welcome!")
+alert("Congratulations!");
+alert("You are Todays Lucky Visitor.");
+alert("Click OK to continue");
+alert("LoL JK");
